@@ -1,7 +1,6 @@
-// endpoint {base_url}/version-group/{id or name}
-
 import { NamedAPIResource } from "../../utility";
 
+// endpoint {base_url}/version-group/{id or name}
 // type
 export class VersionGroup{
   constructor(
