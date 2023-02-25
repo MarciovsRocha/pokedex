@@ -1,8 +1,9 @@
 import { NamedAPIResource } from "./namedapiresource.model";
 
-export class GenerationGameIndex{
+// type
+export class VersionGameIndex{
   constructor(
     public game_index?: number
-    , public generation?: NamedAPIResource
+    , public version?: NamedAPIResource // version
   ){}
 }

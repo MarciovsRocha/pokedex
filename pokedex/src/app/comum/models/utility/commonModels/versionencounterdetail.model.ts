@@ -1,6 +1,7 @@
 import { NamedAPIResource } from "./namedapiresource.model";
-import { Encounter } from "./encounter.model";
+import { Encounter } from "..";
 
+// type
 export class VersionEncounterDetail{
   constructor(
     public version?: NamedAPIResource

@@ -1,5 +1,6 @@
 import { NamedAPIResource } from "./namedapiresource.model";
 
+// Dtype
 export class Encounter{
   constructor(
     public min_level?: number
