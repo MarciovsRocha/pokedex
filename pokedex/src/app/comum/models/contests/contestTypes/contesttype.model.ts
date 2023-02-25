@@ -1,4 +1,4 @@
-import { NamedAPIResource } from "../../namedapiresource.model";
+import { NamedAPIResource } from "../../utility/commonModels/namedapiresource.model";
 import { ContestName } from "./contestname.model";
 
 // endpoint {base_url}/contest-type/{id or name}

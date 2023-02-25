@@ -1,4 +1,4 @@
-import { NamedAPIResource } from "../../namedapiresource.model";
+import { NamedAPIResource } from "../../utility/commonModels/namedapiresource.model";
 
 // type
 export class ContestName{
