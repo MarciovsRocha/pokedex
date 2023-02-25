@@ -1,4 +1,4 @@
-import { Pokemon } from "../../pokemon.model";
+import { Pokemon } from "../../pokemon";
 import { VersionEncounterDetail } from "../../utility";
 
 export class PokemonEncounter{

@@ -1,4 +1,4 @@
-import { Abilities } from "./abilites.model";
+import { Abilities } from "../abilities/abilites.model";
 
 export class Pokemon{
   constructor(
@@ -9,6 +9,6 @@ export class Pokemon{
     , public is_default?: boolean
     , public order?: number
     , public weight?: number
-    , public abilities?: Abilities[]
+    , public abilities?: PokemonAbility[]
   ){}
 }
