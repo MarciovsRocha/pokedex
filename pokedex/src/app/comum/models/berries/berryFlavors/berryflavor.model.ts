@@ -1,5 +1,5 @@
-import { Name } from "./name.model";
-import { NamedAPIResource } from "./namedapiresource.model";
+import { Name } from "../../name.model";
+import { NamedAPIResource } from "../../namedapiresource.model";
 import { FlavorBerryMap } from "./flavorberrymap.model";
 
 // endpoint {base_url}/berry-flavor/{id or name}
