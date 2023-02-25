@@ -1,5 +1,5 @@
 import { BerryFlavorMap } from "./berryflavormap.model";
-import { NamedAPIResource } from "../../namedapiresource.model";
+import { NamedAPIResource } from "../../utility/commonModels/namedapiresource.model";
 
 // endpoint {base_url}/berry/{id or name}
 // type

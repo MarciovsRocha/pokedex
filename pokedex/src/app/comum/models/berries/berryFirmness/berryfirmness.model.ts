@@ -1,5 +1,5 @@
-import { Name } from "../../name.model";
-import { NamedAPIResource } from "../../namedapiresource.model";
+import { Name } from "../../utility/commonModels/name.model";
+import { NamedAPIResource } from "../../utility/commonModels/namedapiresource.model";
 
 // endpoint {base_url}/berry-firmness/{id or name}
 // type
