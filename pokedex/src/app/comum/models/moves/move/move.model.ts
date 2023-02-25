@@ -1,5 +1,3 @@
-// endpoint {base_url}/move/{id or name}
-
 import { AbilityEffectChange } from "../../pokemon";
 import { APIResource, MachineVersionDetail, Name, NamedAPIResource, VerboseEffect } from "../../utility";
 import { ContestCombosSet } from "./contestcombosets.model";
@@ -8,6 +6,7 @@ import { MoveMetaData } from "./movemetadata.model";
 import { MoveStatChange } from "./movestatchange.model";
 import { PastMoveStatValues } from "./pastmovestatvalues.model";
 
+// endpoint {base_url}/move/{id or name}
 // type
 export class Move{
   constructor(
