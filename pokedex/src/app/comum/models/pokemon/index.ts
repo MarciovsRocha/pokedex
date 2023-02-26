@@ -1,4 +1,5 @@
 export * from './abilities'
 export * from './characteristics'
 export * from './eggGroups'
+export * from './genders'
 export * from './pokemon'
