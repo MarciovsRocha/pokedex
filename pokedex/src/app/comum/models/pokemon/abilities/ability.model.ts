@@ -5,7 +5,7 @@ import { AbilityPokemon } from "./abilitypokemon.model";
 
 // endpoint {base_url}/ability/{id or name}
 // type
-export class Abilities{
+export class Ability{
   constructor(
     public id?: number
     , public name?: string
