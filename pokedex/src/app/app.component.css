@@ -1,0 +1,10 @@
+.custom-navbar{
+  border-radius: .25em;
+  max-width: 2em;
+}
+
+.custom-title{
+  padding-left: 1em;
+  font-weight: 10px;
+  font-size: x-large;
+}
